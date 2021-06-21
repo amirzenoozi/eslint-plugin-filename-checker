@@ -35,7 +35,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "filename-checker/rule-name": 2
+      "filename-checker/file-format": [ "error", { "regex": "Your RegEx" }]
     }
 }
 ```

@@ -1,12 +1,22 @@
 {
   "name": "eslint-plugin-filename-checker",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Check File Names Format",
   "keywords": [
     "eslint",
     "eslintplugin",
-    "eslint-plugin"
+    "eslint-plugin",
+    "filename-checker",
+    "filename"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amirzenoozi/eslint-plugin-filename-checker"
+  },
+  "bugs": {
+    "url": "https://github.com/amirzenoozi/eslint-plugin-filename-checker/issues"
+  },
+  "homepage": "https://github.com/amirzenoozi/eslint-plugin-filename-checker",
   "author": "Amirhossein D.",
   "main": "lib/index.js",
   "scripts": {
