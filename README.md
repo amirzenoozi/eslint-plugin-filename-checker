@@ -16,6 +16,12 @@ Next, install `eslint-plugin-filename-checker`:
 $ npm install eslint-plugin-filename-checker --save-dev
 ```
 
+or If you use `Yarn`:
+
+```
+$ yarn add -D eslint-plugin-filename-checker
+```
+
 
 ## Usage
 
